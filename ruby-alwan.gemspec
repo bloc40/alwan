@@ -9,8 +9,8 @@ Gem::Specification.new do |spec|
   spec.authors       = ['Jamal El Milahi']
   spec.email         = ['jamal@elmilahi.com']
 
-  spec.summary       = %q{TODO: Write a short summary, because Rubygems requires one.}
-  spec.description   = %q{TODO: Write a longer description or delete this line.}
+  spec.summary       = %q{Ruby gem for colorizing text.}
+  spec.description   = %q{ruby-colorize is a Ruby gem for colorizing text.}
   # spec.homepage      = "TODO: Put your gem's website or public repo URL here."
   spec.license       = 'MIT'
 
