@@ -1,16 +1,16 @@
 # coding: utf-8
 lib = File.expand_path('../lib', __FILE__)
 $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
-require 'ruby/alwan/version'
+require 'alwan/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = 'ruby-alwan'
-  spec.version       = Ruby::Alwan::VERSION
+  spec.name          = 'alwan'
+  spec.version       = Alwan::VERSION
   spec.authors       = ['Jamal El Milahi']
   spec.email         = ['jamal@elmilahi.com']
 
   spec.summary       = %q{Ruby gem for colorizing text.}
-  spec.description   = %q{ruby-colorize is a Ruby gem for colorizing text.}
+  spec.description   = %q{Alwan is a Ruby gem for colorizing text in the command line.}
   # spec.homepage      = "TODO: Put your gem's website or public repo URL here."
   spec.license       = 'MIT'
 

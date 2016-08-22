@@ -1,4 +1,4 @@
-require 'ruby/alwan/version'
+require 'alwan/version'
 
 class String
   COLORS = {
