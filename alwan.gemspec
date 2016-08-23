@@ -7,7 +7,7 @@ Gem::Specification.new do |spec|
   spec.name          = 'alwan'
   spec.version       = Alwan::VERSION
   spec.authors       = ['Jamal El Milahi']
-  spec.email         = ['jamal@elmilahi.com']
+  spec.email         = ['elmilahi@protonmail.com']
 
   spec.summary       = %q{Ruby gem for colorizing text.}
   spec.description   = %q{Alwan is a Ruby gem for colorizing text in the command line.}
